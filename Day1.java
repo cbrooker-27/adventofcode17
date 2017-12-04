@@ -1,3 +1,5 @@
+package adventofcode17;
+
 
 public class Day1 {
 
